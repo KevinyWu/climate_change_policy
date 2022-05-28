@@ -12,5 +12,4 @@ make conclusions about whether or not global climate policies beginning with the
 Kyoto Protocol have caused a statistically significant change in the rate at which
 global temperatures have risen over the 21st century.
 
-This was a project for SOSC 13300, done with my partner Matthew Chen. Presentations of our findings can be found in this [folder](https://github.com/KevinyWu/climate_change_policy/tree/main/presentations)
-Findings are summarized in [The_Impacts_of_International_Climate_Policies_on_Global_Temperature.pdf](https://github.com/KevinyWu/climate_change_policy/blob/main/The_Impacts_of_International_Climate_Policies_on_Global_Temperature.pdf).
+This was a project for SOSC 13300, done with my partner Matthew Chen. Presentations of our findings can be found in this [folder](https://github.com/KevinyWu/climate_change_policy/tree/main/presentations). Findings are summarized in the paper, [The_Impacts_of_International_Climate_Policies_on_Global_Temperature.pdf](https://github.com/KevinyWu/climate_change_policy/blob/main/The_Impacts_of_International_Climate_Policies_on_Global_Temperature.pdf).
